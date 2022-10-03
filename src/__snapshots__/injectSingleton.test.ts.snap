@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`injectSingleton should throw when there is no container passed or global container set 1`] = `"Cannot find container, call setDefaultContainer to set globally or pass into inject"`;
